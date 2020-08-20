@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ShopBridgeFrontEnd"
+    }
+  },
+  "defaultProject": "ShopBridgeFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
